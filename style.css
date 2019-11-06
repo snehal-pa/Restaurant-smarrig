@@ -96,7 +96,7 @@ figure:hover img{
     opacity: 0.5;
 }*/
 
-@media screen and (max-width:1400px)   {
+@media screen and (max-width:1440px)   {
     .box1{
         /*background-image: url(images/img1.jpg);*/
         grid-row: 1/span 2;
